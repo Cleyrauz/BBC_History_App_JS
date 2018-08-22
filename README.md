@@ -12,7 +12,7 @@ Your task is to make an MVP to put forward to them - this may only be for a smal
 
 - Display some information about a particular topic in an interesting way
 - Have some user interactivity, e.g. to move through different sections of content
-_ Use React, JavaScript, VerticalTimeline, Calendar and Day Picker.
+- Use React, JavaScript, VerticalTimeline, Calendar and Day Picker
 
 Some samples of existing apps for inspiration:
 
